@@ -1,0 +1,7 @@
+C:\Users\MartinaNatale\Desktop\mart_practise\InventoryTrial\InventoryTrial\bin\Debug\InventoryTrial.exe.config
+C:\Users\MartinaNatale\Desktop\mart_practise\InventoryTrial\InventoryTrial\bin\Debug\InventoryTrial.exe
+C:\Users\MartinaNatale\Desktop\mart_practise\InventoryTrial\InventoryTrial\bin\Debug\InventoryTrial.pdb
+C:\Users\MartinaNatale\Desktop\mart_practise\InventoryTrial\InventoryTrial\obj\Debug\InventoryTrial.csprojAssemblyReference.cache
+C:\Users\MartinaNatale\Desktop\mart_practise\InventoryTrial\InventoryTrial\obj\Debug\InventoryTrial.csproj.CoreCompileInputs.cache
+C:\Users\MartinaNatale\Desktop\mart_practise\InventoryTrial\InventoryTrial\obj\Debug\InventoryTrial.exe
+C:\Users\MartinaNatale\Desktop\mart_practise\InventoryTrial\InventoryTrial\obj\Debug\InventoryTrial.pdb
